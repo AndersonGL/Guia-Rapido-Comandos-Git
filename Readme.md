@@ -29,3 +29,27 @@ Pequeno roteiro com os comandos mais utilizados no fluxo básico de versionament
 ```bash
 git init
 
+# 📘 Guia Rápido de Comandos Git
+
+Um roteiro prático com os principais comandos Git — ideal para iniciantes e consultas rápidas durante o desenvolvimento.
+
+---
+
+## 📑 Índice
+1. [⚙️ Configuração Inicial](#️-configuração-inicial)
+2. [🔍 Verificar Status](#-verificar-status)
+3. [📥 Adicionar ao Stage](#-adicionar-ao-stage)
+4. [🌿 Branch - Criar ou Renomear](#-branch---criar-ou-renomear)
+5. [🌐 Adicionar Repositório Remoto](#-adicionar-repositório-remoto)
+6. [💾 Realizar Commit](#-realizar-commit)
+7. [🚀 Enviar para o GitHub](#-enviar-para-o-github)
+8. [📚 Referências](#-referências)
+
+---
+
+## ⚙️ Configuração Inicial
+
+```bash
+git init
+
+
