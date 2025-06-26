@@ -1,18 +1,3 @@
-* **git init**
-* **git status**
-* **git add .** 
-* **git branch -M "main"**
-* **git remote add origin https://github.com/AndersonGL/Comandos-Git.git**
-* **git commit - m "update"**
-* **git push -u origin main
-
-
-
-
-
-Show! Aqui está seu README completo e personalizado com seu usuário e nome do repositório:
-
-````markdown
 # 📘 Guia Rápido de Comandos Git
 
 Um roteiro prático com os principais comandos Git — ideal para iniciantes e consultas rápidas durante o desenvolvimento.
