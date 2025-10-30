@@ -97,5 +97,4 @@ git push -u origin main
 
 ```
 
-Pode copiar e colar direto no seu README.md! Se quiser, posso ajudar com mais alguma coisa.
-```
+
